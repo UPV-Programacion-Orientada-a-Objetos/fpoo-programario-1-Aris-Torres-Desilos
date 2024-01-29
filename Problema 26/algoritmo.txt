@@ -1,0 +1,9 @@
+Inicio: Inicia el programa
+Entrada de datos: Solicita al usuario que ingrese el número de días que estará en Monterrey, el gasto diario en hotel, el gasto diario en comida y otros gastos diarios. Estos valores se almacenan en las variables correspondientes.
+Cálculo de gastos totales: Calcula el total de gastos multiplicando cada gasto diario por el número de días y sumando los resultados. Esto se realiza mediante la fórmula: 
+totalGastos = (gastoHotelPorDia + gastoComidaPorDia + otrosGastosPorDia) * numeroDias
+Cálculo del desglose de gastos: Calcula el desglose de gastos para cada concepto multiplicando el gasto diario por el número de días. Esto se hace mediante las siguientes fórmulas:
+gastoHotelTotal = gastoHotelPorDia * numeroDias
+gastoComidaTotal = gastoComidaPorDia * numeroDias
+otrosGastosTotal = otrosGastosPorDia * numeroDias
+Salida de resultados: Muestra en pantalla el desglose de gastos para cada concepto (hotel, comida y otros gastos) y el monto total del cheque

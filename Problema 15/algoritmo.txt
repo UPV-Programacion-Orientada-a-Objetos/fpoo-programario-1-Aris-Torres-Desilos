@@ -1,0 +1,9 @@
+Leer las horas utilizadas en el estacionamiento
+Inicializar la variable de cobro en 0
+Si las horas utilizadas son 3 o menos:
+Establecer el cobro en $5
+Si las horas utilizadas son más de 3:
+Calcular el excedente de horas restando 3 horas de las horas utilizadas
+Multiplicar el excedente de horas por $1.5
+Sumar $5 al resultado anterior para obtener el cobro total
+Mostrar el cobro total

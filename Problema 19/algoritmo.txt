@@ -1,0 +1,4 @@
+ Leer distancia_entre_ciudades
+ Leer velocidad
+ tiempo = distancia_entre_ciudades / velocidad
+ Imprimir "El tiempo que tarda en llegar es:", tiempo

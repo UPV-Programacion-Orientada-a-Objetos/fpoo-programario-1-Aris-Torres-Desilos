@@ -1,0 +1,4 @@
+Leer el área en metros cuadrados a pintar (m2_pintura)
+Leer el precio por metro cuadrado de pintura (precio_por_m2)
+Calcular el costo total del trabajo multiplicando el área por el precio por metro cuadrado
+Mostrar el costo total del trabajo

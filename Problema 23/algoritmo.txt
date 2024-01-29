@@ -1,0 +1,7 @@
+Leer precio_articulo
+descuento = precio_articulo * 0.20
+precio_con_descuento = precio_articulo - descuento
+iva = precio_con_descuento * 0.15
+precio_final = precio_con_descuento + iva
+Imprimir "Precio con descuento:", precio_con_descuento
+Imprimir "Precio final:", precio_final

@@ -1,0 +1,5 @@
+Leer sueldo
+ahorro_semanal = sueldo * 0.15
+ahorro_mensual = ahorro_semanal * 4
+ahorro_anual = ahorro_mensual * 12
+Imprimir "El ahorro anual es:", ahorro_anual

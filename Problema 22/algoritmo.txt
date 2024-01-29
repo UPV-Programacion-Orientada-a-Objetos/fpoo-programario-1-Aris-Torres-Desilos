@@ -1,0 +1,4 @@
+Leer consumo_en_kw
+Leer costo_por_kw
+pago = consumo_en_kw * costo_por_kw
+Imprimir "El pago por el consumo de energía eléctrica es:", pago

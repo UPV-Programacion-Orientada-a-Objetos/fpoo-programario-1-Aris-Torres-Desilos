@@ -1,0 +1,4 @@
+Leer el tiempo que dura la llamada
+Leer el costo por minuto
+Calcular el costo total de la llamada multiplicando el tiempo de la llamada por el costo por minuto
+Mostrar el costo total de la llamada

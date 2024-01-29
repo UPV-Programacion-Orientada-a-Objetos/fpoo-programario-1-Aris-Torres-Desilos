@@ -1,0 +1,11 @@
+Declaración de variables: Se definen las variables a, b, c, area_t, area_r, y area_total como números reales
+Ingresar variables:
+Solicita al usuario que ingrese el valor del lado A del triángulo (a)
+Solicita al usuario que ingrese el valor del lado B del triángulo (b)
+Solicita al usuario que ingrese el valor del lado C del triángulo (c)
+Calcular áreas:
+Calcula el área del triángulo (area_t) usando el valor de a, b, y c
+Calcula el área del rectángulo (area_r) usando el valor de b y c
+Calcula el área total (area_total) sumando las áreas del triángulo y del rectángulo
+Mostrar resultado:
+Muestra en la salida el mensaje "Área total del terreno:" seguido del valor calculado de area_total

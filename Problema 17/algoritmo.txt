@@ -1,0 +1,7 @@
+Leer la longitud del cateto A
+Leer la longitud del cateto B
+Calcular el cuadrado de A
+Calcular el cuadrado de B
+Sumar los cuadrados obtenidos en los pasos 3 y 4
+Calcular la raíz cuadrada del resultado obtenido en el paso 5
+Mostrar la hipotenusa calculada

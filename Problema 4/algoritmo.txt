@@ -1,0 +1,6 @@
+Declarar las variables radio y area como números reales
+Solicitar al usuario que ingrese el radio de la circunferencia
+Leer y almacenar el valor ingresado en la variable radio
+Calcular el área de la circunferencia utilizando la fórmula PI*radio elevado a la 2
+Almacenar el resultado del cálculo en la variable area
+Mostrar el resultado del área de la circunferencia al usuario

@@ -1,0 +1,9 @@
+Solicita al usuario que ingrese la cantidad de leche en litros (litros)
+Declaración de variables:
+Define las variables litros, galones, precio_galon y pago como números flotantes o reales
+Cálculos:
+Convierte la cantidad de litros a galones dividiendo litros entre 3.785 y almacena el resultado en galones
+Asigna un valor (representado por x) a la variable precio_galon
+Calcula el pago multiplicando la cantidad de galones por el precio por galón y almacena el resultado en pago
+Mostrar resultado:
+Muestra en la salida el mensaje "Por la entrega de litros litros de leche, se pagará la cantidad de pago pesos"

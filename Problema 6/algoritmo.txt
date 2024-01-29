@@ -1,0 +1,6 @@
+Entradas: Se solicita al usuario ingresar el valor de la hipotenusa (H) y el radio (R)
+Calcular área triángulo 1: Se calcula el área del primer triángulo rectángulo (R*R)/2
+Calcular área triángulo 2: Se calcula el área del segundo triángulo rectángulo (H*R)/2
+Calcular área semicircunferencia: Se calcula el área de la semicircunferencia (piRR)/2
+Sumar áreas: Se suman las áreas calculadas en los pasos anteriores
+Salida: Se muestra el área total como resultado

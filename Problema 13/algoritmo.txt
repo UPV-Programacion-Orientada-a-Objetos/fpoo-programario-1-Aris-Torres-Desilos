@@ -1,0 +1,18 @@
+Ingreso de la cantidad en pesos:
+
+Se solicita al usuario que ingrese la cantidad en pesos
+El usuario introduce el valor
+El programa guarda este valor en la variable pesos
+Ingreso de la tasa de cambio:
+
+Se solicita al usuario que ingrese la tasa de cambio
+El usuario introduce el valor
+El programa guarda este valor en la variable tasaCambio
+Cálculo de la cantidad en dólares:
+
+Se realiza el cálculo multiplicando la cantidad en pesos (pesos) por la tasa de cambio (tasaCambio)
+El resultado se almacena en la variable cantidadDolares
+Mostrar el resultado:
+
+Se muestra el resultado al usuario
+El programa imprime en la pantalla el mensaje indicando cuántos dólares puede adquirir con la cantidad ingresada en pesos

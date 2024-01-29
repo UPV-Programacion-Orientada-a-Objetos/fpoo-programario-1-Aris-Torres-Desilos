@@ -1,0 +1,4 @@
+Leer las coordenadas X1,Y1,X2,Y2
+Clcular la distancia en las coordenadas en el eje x (vx=X2 - X1)
+Calcular la distancia en las coordenadas en el eje Y(vy = Y2-Y1)
+Calcular la distancia entre los puntos utilizando la formula D = raiz cuadrada de vx elevada a la dos mas xy elevada a la 2.

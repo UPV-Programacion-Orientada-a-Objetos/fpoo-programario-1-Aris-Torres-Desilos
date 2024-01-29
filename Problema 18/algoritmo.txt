@@ -1,0 +1,4 @@
+Leer los kilómetros por recorrer
+Leer el costo por kilómetro
+Calcular el costo del boleto multiplicando los kilómetros por recorrer por el costo por kilómetro
+Mostrar el costo del boleto

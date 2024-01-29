@@ -1,0 +1,7 @@
+Leer numero_dias
+Leer gasto_hotel_por_dia
+Leer gasto_comida_por_dia
+Leer otros_gastos_por_dia
+Calcular el total de gastos
+total_gastos = (gasto_hotel_por_dia + gasto_comida_por_dia + otros_gastos_por_dia) * numero_dias
+Imprimir "El monto del cheque es:", total_gastos

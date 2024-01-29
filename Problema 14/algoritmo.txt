@@ -1,0 +1,19 @@
+Definir variables:
+Se declaran las variables anoNacimiento y anoActual como enteros para almacenar los años de nacimiento y actual, respectivamente
+
+Ingreso del año de nacimiento:
+Se solicita al usuario que ingrese el año de nacimiento
+El usuario introduce el valor
+El programa guarda este valor en la variable anoNacimiento
+
+Ingreso del año actual:
+Se solicita al usuario que ingrese el año actual
+El usuario introduce el valor
+El programa guarda este valor en la variable anoActual
+
+Calcular la edad:
+Se realiza el cálculo restando el año de nacimiento (anoNacimiento) al año actual (anoActual)
+El resultado se almacena en la variable edad
+
+Mostrar la edad:
+Se imprime en la pantalla el mensaje que indica la edad calculada.

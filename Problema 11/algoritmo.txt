@@ -1,0 +1,13 @@
+Declaración de variables:
+Define las variables alto_en_m, ancho_en_m, largo_en_m, precio_por_m3, volumen_en_m3, y pago como números reales
+Entrada de datos:
+Solicita al usuario que ingrese el valor de alto en metros (alto_en_m)
+Solicita al usuario que ingrese el valor de ancho en metros (ancho_en_m)
+Solicita al usuario que ingrese el valor de largo en metros (largo_en_m)
+Solicita al usuario que ingrese el valor de precio por metro cúbico (precio_por_m3)
+Cálculos:
+Calcula el volumen en metros cúbicos multiplicando alto_en_m, largo_en_m, y ancho_en_m, y almacena el resultado en volumen_en_m3
+Calcula el pago multiplicando el volumen en metros cúbicos por el precio por metro cúbico y almacena el resultado en pago
+Mostrar resultados:
+Muestra en la salida el mensaje "Valor de pago: pago"
+Muestra en la salida el mensaje "Valor de volumen en metros cúbicos: volumen_en_m3"

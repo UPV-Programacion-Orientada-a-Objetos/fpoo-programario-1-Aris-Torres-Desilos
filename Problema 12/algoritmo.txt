@@ -1,0 +1,6 @@
+Inicio
+Ingresar la longitud de la base del triángulo
+Ingresar la altura del triángulo
+Calcular el área: area = (base * altura) / 2
+Mostrar el área del triángulo
+Fin

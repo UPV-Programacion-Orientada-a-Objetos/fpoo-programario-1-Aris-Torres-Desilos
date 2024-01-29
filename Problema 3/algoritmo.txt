@@ -1,0 +1,8 @@
+Declarar las variables base, altura, y area como números reales
+Solicitar al usuario que ingrese la base del rectángulo
+Leer y almacenar el valor ngresado en la variable base
+Solicitar al usuario que ingrese la altura del rectángulo
+Leer y almacenar el valor ingresado en la variable altura
+Calcular el área del rectángulo multiplicando la base por la atura
+Almacenar el rsultado del cálculo en la variable area
+Mostrar el resultado del área del rectángulo al usuario

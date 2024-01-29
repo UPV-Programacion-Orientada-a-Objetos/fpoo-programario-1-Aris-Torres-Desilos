@@ -1,0 +1,9 @@
+Declaración de variables:
+Define las variables horas_trabajadas, pago_por_hora y sueldo_semanal como números reales
+Entrada de datos:
+Solicita al usuario que ingrese las horas trabajadas por el trabajador (horas_trabajadas)
+Solicita al usuario que ingrese el pago por hora (pago_por_hora)
+Cálculos:
+Calcula el sueldo semanal multiplicando las horas trabajadas por el pago por hora y almacena el resultado en sueldo_semanal
+Mostrar resultado:
+Muestra en la salida el mensaje "El sueldo semanal del trabajador es: sueldo_semanal pesos."

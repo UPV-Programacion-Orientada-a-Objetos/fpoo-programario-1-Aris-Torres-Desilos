@@ -1,0 +1,9 @@
+Definir las variables suma, promedio, y calificacion como números reales.
+Inicializar el acumulador suma a = 0.
+Iniciar un ciclo que se repetirá 4 veces, representando los 4 exámenes.
+	Para cada iteración del ciclo:
+		Solicitar al usuario la calificación del examen actual.
+		Leer la calificación ingresada por el usuario.
+		Sumar la calificación al acumulador suma.
+		Calcular el promedio dividiendo la suma total por el número de exámenes (4 en este caso).
+Mostrar el resultado del promedio al usuario.
